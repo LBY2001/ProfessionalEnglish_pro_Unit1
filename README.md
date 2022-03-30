@@ -4,7 +4,7 @@
 
 
 <!-- Links -->
-[百度链接](www.baidu.com)
+[百度链接](http://www.baidu.com)
 
 [跳转text.md](./test.md)
 
