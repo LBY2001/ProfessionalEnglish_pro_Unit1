@@ -4,9 +4,9 @@
 
 
 <!-- Links -->
-[百度链接](http://www.baidu.com)
+[百度链接（外部链接）](http://www.baidu.com)
 
-[跳转text.md](./test.md)
+[跳转text.md（内部链接）](./test.md)
 
 
 <!-- image -->
@@ -28,7 +28,7 @@
 
 
 <!-- Blockquote -->
-> 21190214 李帛原
+> 21190214 李帛原（Block quote）
 
 
 <!-- UL -->
@@ -66,3 +66,4 @@ _小不点_ is italic
 
 <!-- horizontal rule -->
 ---
+（horizontal rule）
